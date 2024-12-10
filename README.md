@@ -8,10 +8,7 @@
 - Компьютер должен работать на: Windows 7, Windows 8.1, Windows 10, Windows 11
 - Установите последнюю версию [Visual Studio](https://developer.microsoft.com/en-us/windows/downloads)(версия Community подойдет)
   - Установите нагрузку «Разработка классических приложений .NET»
-- Скачайте репозиторий из GitHub:
-    ```
-    git clone https://github.com/Klimpit/Calculator.git
-    ```
+   
 
 - Откройте [src\Calculator.sln](/src/Calculator.sln) в Visual Studio чтобы запустить приложение Calculator
 ### Планы на будущее
